@@ -1,2 +1,2 @@
 # caretaker
-Lightweight Docker deployment service in GO based on event of a Registry
+Lightweight Docker job scheduler and deployment service in GO based on Docker Registrt event.
