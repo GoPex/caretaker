@@ -1,0 +1,9 @@
+# Technical files
+.dockerignore
+.git
+
+# Documentation
+README.md
+
+# Tests
+tests/
